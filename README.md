@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jasonpyau. I'm a Student at UCF studying Computer Science.
-- 👀 I’m interested mainly in Backend development, but looking to learn Frontend and Fullstack development!
-- 💻 Languages: Java (Main), C, Python, Lua
+- 👋 Hi, I’m @jasonpyau. I'm a student at UCF studying Computer Science.
+- 👀 I’m mainly interested in Backend Development, but looking to learn some Frontend/Fullstack Development!
+- 💻 Languages: **Java**, C, Javascript, HTML, CSS, Python, Lua
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/jasonpyau/
 
 <!---
