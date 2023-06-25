@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonpyau. I'm a student at UCF studying Computer Science.
-- 👀 I’m mainly interested in Backend Development.
-- 📫 Connect with me on Linkedin: https://www.linkedin.com/in/jasonpyau/
+- 👀 I’m most experienced in Backend Development.
+- 📫 Check out my portfolio: https://jasonpyau.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonpyau&layout=compact&theme=tokyonight)](https://github.com/jasonpyau/github-readme-stats)
 
